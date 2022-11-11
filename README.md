@@ -17,3 +17,5 @@ Running `yarn compile`
 `yarn compile` looks into scripts and runs `compile` with hardhat.
 
 `code .` opens folder in VScode
+
+> see entire file structure
