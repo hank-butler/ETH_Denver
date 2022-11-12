@@ -14,6 +14,7 @@ Inside `openzeppelin-contracts`
 Run `yarn install`
 
 Running `yarn compile`
+
 `yarn compile` looks into scripts and runs `compile` with hardhat.
 
 `code .` opens folder in VScode
@@ -24,4 +25,6 @@ Running `yarn compile`
 
 ### Running Test example
 
-Run `yarn test ./test/token/ERC20.test.js
+Run `yarn test ./test/token/ERC20.test.js`
+
+
