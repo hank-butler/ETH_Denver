@@ -124,3 +124,5 @@ ___
 
 [Lesson 6 Repo](https://github.com/Encode-Club-Solidity-Bootcamp/Lesson-06)
 
+Review initial hardhat setup
+
