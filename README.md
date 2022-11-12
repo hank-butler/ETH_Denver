@@ -62,3 +62,6 @@ Make sure you don't have projects initialized in same directory!
 * Yes, create a `.gitignore`
 * Will get an error because there's already a `README.md`
 * run `rm README.md` and then `yarn hardhat init` again
+
+Run `code .` inside project
+
