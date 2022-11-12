@@ -95,3 +95,8 @@ create a `.env` file, make sure it is in `.gitignore`
 yarn hardhat compile
 yarn hardhat test
 ```
+---
+
+Take accounts code from repo, copy and paste into `hardhat.confict.ts`
+* make sure to import `task` from hardhat
+
