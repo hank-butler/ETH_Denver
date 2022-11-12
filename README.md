@@ -72,3 +72,11 @@ Looking at `package.json`
 `yarn add --dev mocha`
 * helps with VScode tests
 
+### adding mocha arc file
+`.mocharc.json` add code from repo.
+
+adding paths to `hardhat.config.ts`
+
+`paths: {tests: "tests" },`
+
+configuring `tsconfig.json`
