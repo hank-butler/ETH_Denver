@@ -19,3 +19,9 @@ Running `yarn compile`
 `code .` opens folder in VScode
 
 > see entire file structure
+
+> look at ./test/token/ERC20.test.js
+
+### Running Test example
+
+Run `yarn test ./test/token/ERC20.test.js
