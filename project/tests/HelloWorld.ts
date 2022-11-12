@@ -9,7 +9,6 @@ describe("Hello World", () => {
             console.log(`This signer has the address of: ${signer.address}`)
             const balance = await signer.getBalance();
             console.log(`This signer has the balance of: ${balance}`)
-
         })
 
         expect(false).to.eq(true); 
