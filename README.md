@@ -80,3 +80,10 @@ adding paths to `hardhat.config.ts`
 `paths: {tests: "tests" },`
 
 configuring `tsconfig.json`
+add following code to front of file:
+
+`"include": ["./scripts", "./tests", "./typechain-types"],
+  "files": ["./hardhat.config.ts"],
+`
+
+create a `.env` file, should be in `.gitignore`
