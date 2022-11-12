@@ -65,3 +65,10 @@ Make sure you don't have projects initialized in same directory!
 
 Run `code .` inside project
 
+Looking at `package.json`
+
+`yarn hardhat` to see commands we can run
+
+`yarn add --dev mocha`
+* helps with VScode tests
+
