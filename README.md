@@ -56,3 +56,9 @@ Make sure you don't have projects initialized in same directory!
 `yarn add hardhat --dev`
 * adding dev dependency
 
+`yarn hardhat init`
+* initialize 
+* create a TypeScript project
+* Yes, create a `.gitignore`
+* Will get an error because there's already a `README.md`
+* run `rm README.md` and then `yarn hardhat init` again
