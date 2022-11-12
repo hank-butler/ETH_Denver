@@ -86,4 +86,12 @@ add following code to front of file:
   "files": ["./hardhat.config.ts"],
 `
 
-create a `.env` file, should be in `.gitignore`
+create a `.env` file, make sure it is in `.gitignore`
+
+---
+### Test it out
+
+```
+yarn hardhat compile
+yarn hardhat test
+```
