@@ -1,4 +1,5 @@
 import { HardhatUserConfig, task } from "hardhat/config";
+import "@nomiclabs/hardhat-ethers";
 import "@nomicfoundation/hardhat-toolbox";
 
 const config: HardhatUserConfig = {
