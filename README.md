@@ -24,7 +24,13 @@ Running `yarn compile`
 > look at ./test/token/ERC20.test.js
 
 ### Running Test example
-
+---
 Run `yarn test ./test/token/ERC20.test.js`
 
+### Changing Gears
+---
+* Going to create a new folder at different level than openzeppelin.
+* avoid git issues 
 
+`cd ..` to be outside `openzeppelin-contracts`
+`mkdir project` to create empty folder called "project"
