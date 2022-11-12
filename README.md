@@ -113,3 +113,10 @@ rm .\scripts\*
 rm .\tests\*
 yarn hardhat clean
 ```
+
+Now we can start building new files :)
+
+___
+
+# Lesson 6
+
