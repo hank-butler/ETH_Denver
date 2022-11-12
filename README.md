@@ -133,3 +133,31 @@ yarn add --dev @nomicfoundation/hardhat-toolbox@^2.0.0 @nomicfoundation/hardhat-
 Should have environment set up now.
 
 Check with `yarn hardhat compile`
+
+Test failed when running because was in project not where review was initialized.
+
+Matheus removed everything from contracts, scripts, tests.
+
+Copied code for `HelloWorld.sol` from Lesson 6 repo.
+
+Want to write a .ts file for unit testing.
+
+Creating a new file in `./tests/` folder called `HelloWord.ts` to test `HelloWorld.sol`
+
+run it with `node ./tests/HelloWorld.ts`
+
+Adding describe to `HelloWorld.ts`
+
+Lots of fun stuff in this file.
+
+Exploring with different ethers methods.
+
+Updating describe in `HelloWorld.ts`
+
+Copying code from lesson readme.md
+
+There are some errors intentionally put in the code that will be updated in Lesson 7.
+
+---
+
+# Lesson 7 - 
