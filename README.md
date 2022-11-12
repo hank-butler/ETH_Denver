@@ -1,4 +1,4 @@
-## Lesson 5 - Installs
+# Lesson 5 - Installs
 ---
 
 Run the following code
@@ -100,3 +100,16 @@ yarn hardhat test
 Take accounts code from repo, copy and paste into `hardhat.confict.ts`
 * make sure to import `task` from hardhat
 
+Now run the line below to test
+
+```
+yarn hardhat accounts
+```
+
+### Clear out the template files
+```
+rm .\contracts\*
+rm .\scripts\*
+rm .\tests\*
+yarn hardhat clean
+```
