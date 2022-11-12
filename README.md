@@ -1,6 +1,8 @@
 # Lesson 5 - Installs
 ---
 
+[Link to Lesson 5 Repo](https://github.com/Encode-Club-Solidity-Bootcamp/Lesson-05)
+
 Run the following code
 
 ```git clone https://github.com/OpenZeppelin/openzeppelin-contracts.git```
@@ -118,5 +120,7 @@ Now we can start building new files :)
 
 ___
 
-# Lesson 6
+# Lesson 6 - Unit Tests for HelloWorld.Sol
+
+[Lesson 6 Repo](https://github.com/Encode-Club-Solidity-Bootcamp/Lesson-06)
 
